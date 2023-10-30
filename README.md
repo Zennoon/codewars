@@ -27,5 +27,7 @@
             However, this recursive function would be horrendously inefficient. One, because it still has to do something (addition and multiplying) after the recursive calls, and second and mainly, it is making 2 recursive call, most of which are just repetitive. So, I have chosen to implement tail recursion using a helper function to at least reduce this inefficiency by eliminating the two mentioned drawbacks (the recursion call is the last thing the function does, and only one recursion call is made).
     </li><br/>
     <li><h4>make_negative.py</h4>: Pretty straight forward, just makes a number negative (if it isn,t already) using the unary - operator</li><br/>
-    <li><h4>number_star_ladder.py</h4>: Given a number, the function returns a ladder of stars of length n that starts with 1 and ends with the number of stars in that line + 1</li>
+    <li><h4>number_star_ladder.py</h4>: Given a number, the function returns a ladder of stars of length n that starts with 1 and ends with the number of stars in that line + 1</li><br/>
+    <li><h4>easy_challenge.py</h4>: Given a number <code>num</code>, we are asked to return an array containing <br/>1. The number in another number base which only contains digits 1-9, not zero. So for example 10 would be 91 in this base system<br/>2. num number of 1s, so for example, 10 would output 10 1s or 1111111111. 0 would output 0. This was done using tail recursion, but I believe python doesn't have tail recursion optimization, so it doesn't affect the performance</li>
+
 </ul>
