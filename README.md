@@ -33,5 +33,6 @@
     <li><h4>bullets_and_dragons.c</h4>: Given a specific number of bullets, it returns whether our hero can survive a fight against a given number of dragons, where it takes 2 bullets to kill 1 dragon.</li>
     <li><h4>panagram.c</h4>: Given a string, it checks if the string is a panagram or not. A panagram is a collection of characters that contains all the letters of the alphabet (case insensitive).</li>
     <li><h4>sqrt_or_square,py</h4>: Accepts as input an array (list to be exact) of numbers and returns a new array. For each number, if it is a perfect square, its sqrt is appended. If not, its square is appended.</li>
+    <li><h4>domino_dots.js</h4>: The function accepts the maximum number that could appear in a domino, and returns the sum of all possible combinations of numbers in 2 dominos, where for example [1, 2] and [2, 1] are considered the same combination</li>
 
 </ul>
