@@ -15,6 +15,7 @@
         <li><a href="#sqrt_or_squarepy">sqrt_or_square.py</a></li>
         <li><a href="#domino_dotsjs">domino_dots.js</a></li>
         <li><a href="#up_and_downpy">up_and_down.py</a></li>
+        <li><a href="#dominant_elemjs">dominant_elem.js</a></li>
     </ul>
 </nav>
 <h4>Below you will find some descriptions of my solutions</h4>
@@ -52,5 +53,5 @@
     <li><h4 id="sqrt_or_square">sqrt_or_square.py</h4>: Accepts as input an array (list to be exact) of numbers and returns a new array. For each number, if it is a perfect square, its sqrt is appended. If not, its square is appended.</li>
     <li><h4 id="domino_dots">domino_dots.js</h4>: The function accepts the maximum number that could appear in a domino, and returns the sum of all possible combinations of numbers in 2 dominos, where for example [1, 2] and [2, 1] are considered the same combination</li>
     <li><h4 id="up_and_down">up_and_down.py</h4>: The function accepts a string wit substrings inside, separated by " ". The task is to arrange the substrings in such a way that if s[i] is the ith substring of s, then s[0] <= s[1] >= s[2] <= s[3] >= s[4] <= s[5] >= s[6] ...</li>
-
+    <li><h4 id="dominant_elem">dominant_elems.js</h4>: The function accepts an array as an argument and returns an array of all the dominant elements in the given array. A dominant element is a number that is greater than all the elements that come after it in the array. So, for example, for the array [1, 21, 3, 7, 4, 5], the function returns [21, 7, 5].</li>
 </ul>
