@@ -2,18 +2,18 @@
 <h3>This repository was created to hold my answers/submissions for codewars katas, because I imagine I am going to need some of these code snippets for future projects</h3>
 <nav>
     <ul>
-        <li><a href="#dist_2d_points">dist_2d_points.js</a></li>
-        <li><a href="#leap_years">leap_years.c</a></li>
-        <li><a href="#split_integer.py">split_integer.py</a></li>
-        <li><a href="#shuffle_up">shuffle_up.js</a></li>
-        <li><a href="#make_negative">make_negative.py</a></li>
-        <li><a href="#number_star_ladder">number_star_ladder.py</a></li>
-        <li><a href="#easy_challenge">easy_challenge.py</a></li>
-        <li><a href="#squarefree">squarefree.js</a></li>
-        <li><a href="#bullets_and_dragons">bullets_and_dragons.c</a></li>
-        <li><a href="#panagram">panagram.c</a></li>
-        <li><a href="#sqrt_or_square">sqrt_or_square.py</a></li>
-        <li><a href="#domino_dots">domino_dots.js</a></li>
+        <li><a href="#dist_2d_pointsjs">dist_2d_points.js</a></li>
+        <li><a href="#leap_yearsc">leap_years.c</a></li>
+        <li><a href="#split_integerpy">split_integer.py</a></li>
+        <li><a href="#shuffle_upjs">shuffle_up.js</a></li>
+        <li><a href="#make_negativepy">make_negative.py</a></li>
+        <li><a href="#number_star_ladderpy">number_star_ladder.py</a></li>
+        <li><a href="#easy_challengepy">easy_challenge.py</a></li>
+        <li><a href="#squarefreejs">squarefree.js</a></li>
+        <li><a href="#bullets_and_dragonsc">bullets_and_dragons.c</a></li>
+        <li><a href="#panagramc">panagram.c</a></li>
+        <li><a href="#sqrt_or_squarepy">sqrt_or_square.py</a></li>
+        <li><a href="#domino_dotsjs">domino_dots.js</a></li>
     </ul>
 </nav>
 <h4>Below you will find some descriptions of my solutions</h4>
