@@ -19,6 +19,8 @@
         <li><a href="#alternatingcasec">alternating_case.c</a></li>
         <li><a href="#divisionsc">divisions.c</a></li>
         <li><a href="#pop_same_adjpy">pop_same_adj.py</a></li>
+        <li><a href="#duplicate_encoderpy">duplicate_encoder.py</a></li>
+        <li><a href="#ds_mult_of_pfsjs">ds_mult_of_pfs.js</a></li>
         
     </ul>
 </nav>
@@ -60,4 +62,7 @@
     <li><h4 id="dominant_elem">dominant_elem.js</h4>: The function accepts an array as an argument and returns an array of all the dominant elements in the given array. A dominant element is a number that is greater than all the elements that come after it in the array. So, for example, for the array [1, 21, 3, 7, 4, 5], the function returns [21, 7, 5].</li>
     <li><h4 id="alternating_case.c">alternating_case.c</h4>: The function accepts a string as input and returns a new string such that for every alphabet letter in the given string, the case is inverted (if lowercase, it is changed to uppercase and vise versa). This would have been much easier and shorter in other languages like python and js which have simple string concatenation, and memory manipulation is more automatic. But I just wanted to use malloc with C. It is truly awesome.</li>
     <li><h4 id="pop_same_adj.py">pop_same_adj.py</h4>: The function receives a list of values and pops each adjacent values that are the same until there are no adjacent elements in the list that are the same.</li>
+    <li><h4 id="duplicate_encoder.py">duplicate_encoder.py</h4>: The function receives a string and returns a new string such that for every character in the given string, if the character occurs more that once (is duplicated), it is replaced with a ')' else, it is replaced with a '('.</li>
+    <li><h4 id="ds_mult_of_pfs.js">ds_mult_of_pfs.js</h4>: The function receives two numbers, a lower bound and an upper bound, and returns all the numbers in that range that have the property 'the sum of all the factors of the number is divisible by the sum of the numbers in its prime factorization'.</li>
+
 </ul>
