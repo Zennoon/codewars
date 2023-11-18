@@ -22,6 +22,7 @@
         <li><a href="#duplicate_encoderpy">duplicate_encoder.py</a></li>
         <li><a href="#ds_mult_of_pfsjs">ds_mult_of_pfs.js</a></li>
         <li><a href="#prime_primesjs">prime_primes.js</a></li>
+        <li><a href="#valid_bracesjs">valid_braces.js</a></li>
         
     </ul>
 </nav>
@@ -66,6 +67,7 @@
     <li><h4 id="duplicate_encoder.py">duplicate_encoder.py</h4>: The function receives a string and returns a new string such that for every character in the given string, if the character occurs more that once (is duplicated), it is replaced with a ')' else, it is replaced with a '('.</li>
     <li><h4 id="ds_mult_of_pfs.js">ds_mult_of_pfs.js</h4>: The function receives two numbers, a lower bound and an upper bound, and returns all the numbers in that range that have the property 'the sum of all the factors of the number is divisible by the sum of the numbers in its prime factorization'.</li>
     <li><h4 id="prime_primes.js">prime_primes.js</h4>: The function receives a simgle integer and generates two things, the count, and the sum of all the prime primes less than one composed of all the prime numbers up to the given number. A prime prime is basically a number of form n1/n2, where n1 and n2 are both prime.</li>
+    <li><h4 id="valid_braces.js">valid_braces.js</h4>: The function receives a string composed of braces (parenthesis, square braces, and curly braces), and the function computes whether the collection of braces is valid or not. A collection of braces is valid if the last opening brace is closed first, the second to last opened brace is closed second and so on.</li>
     
 
 </ul>
