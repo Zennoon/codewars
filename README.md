@@ -23,6 +23,7 @@
         <li><a href="#ds_mult_of_pfsjs">ds_mult_of_pfs.js</a></li>
         <li><a href="#prime_primesjs">prime_primes.js</a></li>
         <li><a href="#valid_bracesjs">valid_braces.js</a></li>
+        <li><a href="#pagination_helperpy">pagination_helper.py</a></li>
         
     </ul>
 </nav>
@@ -68,6 +69,7 @@
     <li><h4 id="ds_mult_of_pfs.js">ds_mult_of_pfs.js</h4>: The function receives two numbers, a lower bound and an upper bound, and returns all the numbers in that range that have the property 'the sum of all the factors of the number is divisible by the sum of the numbers in its prime factorization'.</li>
     <li><h4 id="prime_primes.js">prime_primes.js</h4>: The function receives a simgle integer and generates two things, the count, and the sum of all the prime primes less than one composed of all the prime numbers up to the given number. A prime prime is basically a number of form n1/n2, where n1 and n2 are both prime.</li>
     <li><h4 id="valid_braces.js">valid_braces.js</h4>: The function receives a string composed of braces (parenthesis, square braces, and curly braces), and the function computes whether the collection of braces is valid or not. A collection of braces is valid if the last opening brace is closed first, the second to last opened brace is closed second and so on.</li>
+    <li><h4 id="pagination_helper.py">pagination_helper.py</h4>: Finally, some Object Oriented programming... Anyways, the class takes in an array of items in pages, and an integer representing how many items it is possible to place in each page. The functions (methods) just play with these values. You can take a look at the comments in the code to understand what they do.</li>
     
 
 </ul>
